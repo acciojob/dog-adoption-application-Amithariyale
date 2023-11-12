@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+div{
+	border:2px solid black;
+	height:500px;
+	width:500px;
+	margin:50px auto;
+	background:grey;
+	display:flex;
+	justify-content:center;
+	
+/* 	align-item:center; */
+}
+/* .pos{
+	margin: 25% ;
+} */
